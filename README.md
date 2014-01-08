@@ -24,4 +24,4 @@ Link to accounts for ECE383 teachers and students.
 - James Rasmussen
 - Travis Schriner
 - Ethan Snyder
-- Nikolas Taormina
+- [Nikolas Taormina](https://www.github.com/ntaormina)
