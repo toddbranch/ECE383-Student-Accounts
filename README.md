@@ -22,6 +22,6 @@ Link to accounts for ECE383 teachers and students.
 - Geoffrey Novakowski
 - William Parks
 - James Rasmussen
-- Travis Schriner
+- [Travis Schriner] (https://www.github.com/travisschriner)
 - Ethan Snyder
 - [Nikolas Taormina](https://www.github.com/ntaormina)
