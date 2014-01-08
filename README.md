@@ -11,7 +11,7 @@ Link to accounts for ECE383 teachers and students.
 
 - Tramaine Barnett
 - Brandon Belcher
-- Michael Bentley
+- [Michael Bentley](https://www.github.com/micfloy)
 - Colin Busho
 - Kevin Cooper
 - Ryan Good
