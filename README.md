@@ -18,10 +18,10 @@ Link to accounts for ECE383 teachers and students.
 - John Miller
 - Kevan Mordan
 - Jason Mossing
+- Josh Nielsen
 - Geoffrey Novakowski
 - William Parks
 - James Rasmussen
 - Travis Schriner
 - Ethan Snyder
 - Nikolas Taormina
-- Ryan Turner
