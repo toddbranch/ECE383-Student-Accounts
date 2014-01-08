@@ -16,7 +16,7 @@ Link to accounts for ECE383 teachers and students.
 - Kevin Cooper
 - Ryan Good
 - John Miller
-- Kevan Mordan
+- [Kevan Mordan](https://www.github.com/KingPuffin)
 - Jason Mossing
 - Josh Nielsen
 - Geoffrey Novakowski
