@@ -17,11 +17,11 @@ Link to accounts for ECE383 teachers and students.
 - Ryan Good
 - John Miller
 - [Kevan Mordan](https://www.github.com/KingPuffin)
-- Jason Mossing
+- [Jason Mossing](https://www.github.com/jasonmossing15)
 - Josh Nielsen
 - Geoffrey Novakowski
 - William Parks
 - James Rasmussen
 - Travis Schriner
 - Ethan Snyder
-- [Nikolas Taormina](https://www.github.com/ntaormina)
+- Nikolas Taormina
