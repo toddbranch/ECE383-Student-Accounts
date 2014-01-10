@@ -20,7 +20,7 @@ Link to accounts for ECE383 teachers and students.
 - [Jason Mossing](https://www.github.com/jasonmossing15)
 - Josh Nielsen
 - Geoffrey Novakowski
-- William Parks
+- [William Parks](https://www.github.com/WilliamParks)
 - James Rasmussen
 - [Travis Schriner] (https://www.github.com/travisschriner)
 - Ethan Snyder
