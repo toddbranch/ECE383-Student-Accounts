@@ -10,7 +10,7 @@ Link to accounts for ECE383 teachers and students.
 ## Students
 
 - Tramaine Barnett
-- Brandon Belcher
+- [Brandon Belcher](https://www.github.com/babelcher)
 - [Michael Bentley](https://www.github.com/micfloy)
 - [Colin Busho] (https://www.github.com/cbusho)
 - Kevin Cooper
