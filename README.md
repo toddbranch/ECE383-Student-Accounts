@@ -15,7 +15,7 @@ Link to accounts for ECE383 teachers and students.
 - [Colin Busho] (https://www.github.com/cbusho)
 - Kevin Cooper
 - [Ryan Good](https://www.github.com/GoodRyan)
-- John Miller
+- [John Miller](https://github.com/JahwnMallard)
 - [Kevan Mordan](https://www.github.com/KingPuffin)
 - [Jason Mossing](https://www.github.com/jasonmossing15)
 - Josh Nelsen
