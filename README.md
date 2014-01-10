@@ -9,7 +9,7 @@ Link to accounts for ECE383 teachers and students.
 
 ## Students
 
-- Tramaine Barnett
+- [Tramaine Barnett](https://github.com/lilmaine)
 - [Brandon Belcher](https://www.github.com/babelcher)
 - [Michael Bentley](https://www.github.com/micfloy)
 - [Colin Busho] (https://www.github.com/cbusho)
@@ -18,7 +18,7 @@ Link to accounts for ECE383 teachers and students.
 - [John Miller](https://github.com/JahwnMallard)
 - [Kevan Mordan](https://www.github.com/KingPuffin)
 - [Jason Mossing](https://www.github.com/jasonmossing15)
-- Josh Nelsen
+- Josh Nielsen
 - [Geoffrey Novakowski](https://github.com/gnovakowski)
 - William Parks
 - [James Rasmussen] (https://github.com/Jsrazz)
