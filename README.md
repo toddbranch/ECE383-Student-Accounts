@@ -18,7 +18,7 @@ Link to accounts for ECE383 teachers and students.
 - John Miller
 - [Kevan Mordan](https://www.github.com/KingPuffin)
 - [Jason Mossing](https://www.github.com/jasonmossing15)
-- Josh Nielsen
+- [Josh Nielsen](https://www.github.com/aapljosh)
 - Geoffrey Novakowski
 - William Parks
 - James Rasmussen
