@@ -23,5 +23,5 @@ Link to accounts for ECE383 teachers and students.
 - [James Rasmussen] (https://github.com/Jsrazz)
 - [William Parks](https://www.github.com/WilliamParks)
 - [Travis Schriner] (https://www.github.com/travisschriner)
-- Ethan Snyder
+- [Ethan Snyder](https://www.github.com/donfitch1354)
 - [Nikolas Taormina](https://www.github.com/ntaormina)
